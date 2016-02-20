@@ -1,0 +1,982 @@
+{
+  "version": 1,
+  "width": 84,
+  "height": 25,
+  "duration": 41.662043,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.332207,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                   \r \r"
+    ],
+    [
+      0.000047,
+      "\u001b]2;ghedamat@Mattias-MacBook-Pro: ~/DEV/ember-cli-deploy-introduction\u0007"
+    ],
+    [
+      0.000017,
+      "\u001b]1;..-introduction\u0007"
+    ],
+    [
+      0.016009,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32m~/DEV/ember-cli-deploy-introduction\u001b[01;34m(master ✗)\u001b[00m \u001b[K"
+    ],
+    [
+      0.000063,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.564982,
+      "e"
+    ],
+    [
+      0.231028,
+      "\u0008em"
+    ],
+    [
+      0.168085,
+      "b"
+    ],
+    [
+      0.168263,
+      "e"
+    ],
+    [
+      0.048032,
+      "r"
+    ],
+    [
+      0.288012,
+      " "
+    ],
+    [
+      0.263925,
+      "d"
+    ],
+    [
+      0.136002,
+      "e"
+    ],
+    [
+      0.167622,
+      "p"
+    ],
+    [
+      0.176348,
+      "l"
+    ],
+    [
+      0.152035,
+      "o"
+    ],
+    [
+      0.103744,
+      "y"
+    ],
+    [
+      0.127801,
+      " "
+    ],
+    [
+      0.112745,
+      "p"
+    ],
+    [
+      0.151758,
+      "r"
+    ],
+    [
+      0.087994,
+      "o"
+    ],
+    [
+      0.127528,
+      "d"
+    ],
+    [
+      0.072445,
+      "u"
+    ],
+    [
+      0.104000,
+      "c"
+    ],
+    [
+      0.159951,
+      "t"
+    ],
+    [
+      0.047578,
+      "i"
+    ],
+    [
+      0.032508,
+      "o"
+    ],
+    [
+      0.103570,
+      "n"
+    ],
+    [
+      0.279933,
+      " "
+    ],
+    [
+      0.224423,
+      "-"
+    ],
+    [
+      0.135664,
+      "-"
+    ],
+    [
+      0.096250,
+      "v"
+    ],
+    [
+      0.136098,
+      "e"
+    ],
+    [
+      0.039698,
+      "r"
+    ],
+    [
+      0.664205,
+      "b"
+    ],
+    [
+      0.080101,
+      "o"
+    ],
+    [
+      0.199999,
+      "s"
+    ],
+    [
+      0.127974,
+      "e"
+    ],
+    [
+      0.295663,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000066,
+      "\r\r\n"
+    ],
+    [
+      0.000618,
+      "\u001b]2;ember deploy production --verbose\u0007\u001b]1;ember\u0007"
+    ],
+    [
+      1.966620,
+      "version: 2.3.0-beta.2\r\n"
+    ],
+    [
+      0.355238,
+      "\u001b[34mRegistering hook -\u003e configure[build]\r\n\u001b[39m"
+    ],
+    [
+      0.000057,
+      "\u001b[34mRegistering hook -\u003e build[build]\r\n\u001b[39m"
+    ],
+    [
+      0.000370,
+      "\u001b[34mRegistering hook -\u003e configure[display-revisions]\r\n\u001b[39m"
+    ],
+    [
+      0.000277,
+      "\u001b[34mRegistering hook -\u003e configure[revision-data]\r\n\u001b[39m"
+    ],
+    [
+      0.000028,
+      "\u001b[34mRegistering hook -\u003e prepare[revision-data]\r\n\u001b[39m"
+    ],
+    [
+      0.000267,
+      "\u001b[34mRegistering hook -\u003e configure[s3]\r\n\u001b[39m"
+    ],
+    [
+      0.000046,
+      "\u001b[34mRegistering hook -\u003e upload[s3]\r\n\u001b[39m"
+    ],
+    [
+      0.000427,
+      "\u001b[34mRegistering hook -\u003e configure[s3-index]\r\n\u001b[39m"
+    ],
+    [
+      0.000081,
+      "\u001b[34mRegistering hook -\u003e fetchInitialRevisions[s3-index]\r\n\u001b[39m"
+    ],
+    [
+      0.000005,
+      "\u001b[34mRegistering hook -\u003e upload[s3-index]\r\n\u001b[39m"
+    ],
+    [
+      0.000044,
+      "\u001b[34mRegistering hook -\u003e fetchRevisions[s3-index]\r\n\u001b[39m"
+    ],
+    [
+      0.000216,
+      "\u001b[34mExecuting pipeline\r\n\u001b[39m"
+    ],
+    [
+      0.000350,
+      "\u001b[34m|\r\n\u001b[39m"
+    ],
+    [
+      0.000033,
+      "\u001b[34m+- configure\r\n\u001b[39m"
+    ],
+    [
+      0.000249,
+      "\u001b[34m|  |\r\n\u001b[39m"
+    ],
+    [
+      0.000038,
+      "\u001b[34m|  +- build\r\n\u001b[39m"
+    ],
+    [
+      0.000254,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000068,
+      "\u001b[34m- validating config\u001b[39m\r\n"
+    ],
+    [
+      0.000102,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000043,
+      "\u001b[33m- Missing config: `outputPath`, using default: `tmp/deploy-dist`\u001b[39m\r\n"
+    ],
+    [
+      0.000088,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000094,
+      "\u001b[34m- config ok\u001b[39m\r\n"
+    ],
+    [
+      0.000341,
+      "\u001b[34m|  |\r\n\u001b[39m"
+    ],
+    [
+      0.000019,
+      "\u001b[34m|  +- display-revisions\r\n\u001b[39m"
+    ],
+    [
+      0.000077,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000014,
+      "\u001b[34m- validating config\u001b[39m\r\n"
+    ],
+    [
+      0.000047,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000024,
+      "\u001b[33m- Missing config: `amount`, using default: `[Function]`\u001b[39m\r\n"
+    ],
+    [
+      0.000029,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000011,
+      "\u001b[34m- config ok\u001b[39m\r\n"
+    ],
+    [
+      0.000044,
+      "\u001b[34m|  |\r\n\u001b[39m"
+    ],
+    [
+      0.000023,
+      "\u001b[34m|  +- revision-data\r\n\u001b[39m"
+    ],
+    [
+      0.000057,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000011,
+      "\u001b[34m- validating config\u001b[39m\r\n"
+    ],
+    [
+      0.000050,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000014,
+      "\u001b[33m- Missing config: `type`, using default: `file-hash`\u001b[39m\r\n"
+    ],
+    [
+      0.000029,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000012,
+      "\u001b[33m- Missing config: `filePattern`, using default: `index.html`\u001b[39m\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000017,
+      "\u001b[33m- Missing config: `distDir`, using default: `[Function]`\u001b[39m\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000016,
+      "\u001b[33m- Missing config: `distFiles`, using default: `[Function]`\u001b[39m\r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000014,
+      "\u001b[33m- Missing config: `versionFile`, using default: `package.json`\u001b[39m\r\n"
+    ],
+    [
+      0.000026,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000019,
+      "\u001b[34m- config ok\u001b[39m\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[34m|  |\r\n\u001b[39m"
+    ],
+    [
+      0.000018,
+      "\u001b[34m|  +- s3\r\n\u001b[39m"
+    ],
+    [
+      0.000054,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000013,
+      "\u001b[34m- validating config\u001b[39m\r\n"
+    ],
+    [
+      0.000046,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000013,
+      "\u001b[33m- Missing config: `prefix`, using default: ``\u001b[39m\r\n"
+    ],
+    [
+      0.000029,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000015,
+      "\u001b[33m- Missing config: `acl`, using default: `public-read`\u001b[39m\r\n"
+    ],
+    [
+      0.000024,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000016,
+      "\u001b[33m- Missing config: `distDir`, using default: `[Function]`\u001b[39m\r\n"
+    ],
+    [
+      0.000026,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000010,
+      "\u001b[33m- Missing config: `distFiles`, using default: `[Function]`\u001b[39m\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000014,
+      "\u001b[33m- Missing config: `gzippedFiles`, using default: `[Function]`\u001b[39m\r\n"
+    ],
+    [
+      0.000022,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000016,
+      "\u001b[33m- Missing config: `manifestPath`, using default: `[Function]`\u001b[39m\r\n"
+    ],
+    [
+      0.000024,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000016,
+      "\u001b[33m- Missing config: `uploadClient`, using default: `[Function]`\u001b[39m\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000123,
+      "\u001b[33m- Missing config: `s3Client`, using default: `[Function]`\u001b[39m\r\n"
+    ],
+    [
+      0.000043,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000015,
+      "\u001b[34m- config ok\u001b[39m\r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[34m|  |\r\n\u001b[39m"
+    ],
+    [
+      0.000013,
+      "\u001b[34m|  +- s3-index\r\n\u001b[39m"
+    ],
+    [
+      0.000067,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000014,
+      "\u001b[34m- validating config\u001b[39m\r\n"
+    ],
+    [
+      0.000048,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000013,
+      "\u001b[33m- Missing config: `filePattern`, using default: `index.html`\u001b[39m\r\n"
+    ],
+    [
+      0.000024,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000015,
+      "\u001b[33m- Missing config: `prefix`, using default: ``\u001b[39m\r\n"
+    ],
+    [
+      0.000026,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000012,
+      "\u001b[33m- Missing config: `acl`, using default: `public-read`\u001b[39m\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000013,
+      "\u001b[33m- Missing config: `distDir`, using default: `[Function]`\u001b[39m\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000018,
+      "\u001b[33m- Missing config: `revisionKey`, using default: `[Function]`\u001b[39m\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000024,
+      "\u001b[33m- Missing config: `s3Client`, using default: `[Function]`\u001b[39m\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000014,
+      "\u001b[33m- Missing config: `s3DeployClient`, using default: `[Function]`\u001b[39m\r\n"
+    ],
+    [
+      0.000039,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000009,
+      "\u001b[34m- config ok\u001b[39m\r\n"
+    ],
+    [
+      0.000069,
+      "\u001b[34m|\r\n\u001b[39m"
+    ],
+    [
+      0.000014,
+      "\u001b[34m+- setup\r\n\u001b[39m"
+    ],
+    [
+      0.000049,
+      "\u001b[34m|\r\n\u001b[39m"
+    ],
+    [
+      0.000015,
+      "\u001b[34m+- willDeploy\r\n\u001b[39m"
+    ],
+    [
+      0.000024,
+      "\u001b[34m|\r\n\u001b[39m"
+    ],
+    [
+      0.000015,
+      "\u001b[34m+- willBuild\r\n\u001b[39m"
+    ],
+    [
+      0.000020,
+      "\u001b[34m|\r\n\u001b[39m"
+    ],
+    [
+      0.000011,
+      "\u001b[34m+- build\r\n\u001b[39m"
+    ],
+    [
+      0.000030,
+      "\u001b[34m|  |\r\n\u001b[39m"
+    ],
+    [
+      0.000015,
+      "\u001b[34m|  +- build\r\n\u001b[39m"
+    ],
+    [
+      0.788612,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000069,
+      "\u001b[34m- building app to `tmp/deploy-dist` using buildEnv `production`...\u001b[39m\r\n"
+    ],
+    [
+      21.465001,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000065,
+      "\u001b[34m- ✔  assets/ember-cli-deploy-introduction-3c06b4b88b264be8477c5b203fc8c40e.js\u001b[39m\r\n"
+    ],
+    [
+      0.000030,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000017,
+      "\u001b[34m- ✔  assets/ember-cli-deploy-introduction-dea56f403ced244b1529ca9f72294d56.css\u001b[39m\r\n"
+    ],
+    [
+      0.000019,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000024,
+      "\u001b[34m- ✔  assets/vendor-4d73f67ad18b0bf862eba7758bf125ce.js\u001b[39m\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000013,
+      "\u001b[34m- ✔  assets/vendor-75b1d99f118758c0c20e00031c508069.css\u001b[39m\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000018,
+      "\u001b[34m- ✔  crossdomain.xml\u001b[39m\r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000015,
+      "\u001b[34m- ✔  favicon.ico\u001b[39m\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000004,
+      "\u001b[34m- ✔  images/me-4eb7a4d908de67cd80b2b04ff6bd5c9f.png\u001b[39m\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000022,
+      "\u001b[34m- ✔  images/me-5342b544dc6611be7045e43e64dcc770.jpg\u001b[39m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000013,
+      "\u001b[34m- ✔  index.html\u001b[39m\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000004,
+      "\u001b[34m- ✔  robots.txt\u001b[39m\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000014,
+      "\u001b[34m- ✔  slides.md\u001b[39m\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000019,
+      "\u001b[34m- ✔  videos/ember-deploy-production.mp4\u001b[39m\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000014,
+      "\u001b[34m- ✔  videos/initial-video.json\u001b[39m\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000014,
+      "\u001b[34m- build ok\u001b[39m\r\n"
+    ],
+    [
+      0.000359,
+      "\u001b[34m|\r\n\u001b[39m"
+    ],
+    [
+      0.000112,
+      "\u001b[34m+- didBuild\r\n\u001b[39m"
+    ],
+    [
+      0.000872,
+      "\u001b[34m|\r\n\u001b[39m"
+    ],
+    [
+      0.000022,
+      "\u001b[34m+- willPrepare\r\n\u001b[39m"
+    ],
+    [
+      0.000027,
+      "\u001b[34m|\r\n\u001b[39m"
+    ],
+    [
+      0.000012,
+      "\u001b[34m+- prepare\r\n\u001b[39m"
+    ],
+    [
+      0.000040,
+      "\u001b[34m|  |\r\n\u001b[39m"
+    ],
+    [
+      0.000013,
+      "\u001b[34m|  +- revision-data\r\n\u001b[39m"
+    ],
+    [
+      0.007420,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000007,
+      "\u001b[34m- creating revision data using `file-hash`\u001b[39m\r\n"
+    ],
+    [
+      0.002458,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000005,
+      "\u001b[34m- generated revision data for revision: `a14c0a4740ad507a8e1dcef6bf5cb5cb`\u001b[39m\r\n"
+    ],
+    [
+      0.000218,
+      "\u001b[34m|\r\n\u001b[39m\u001b[34m+- didPrepare\r\n\u001b[39m"
+    ],
+    [
+      0.000052,
+      "\u001b[34m|\r\n\u001b[39m\u001b[34m+- fetchInitialRevisions\r\n\u001b[39m"
+    ],
+    [
+      0.000003,
+      "\u001b[34m|  |\r\n\u001b[39m"
+    ],
+    [
+      0.000014,
+      "\u001b[34m|  +- s3-index\r\n\u001b[39m"
+    ],
+    [
+      1.079695,
+      "\u001b[34m|\r\n\u001b[39m"
+    ],
+    [
+      0.000007,
+      "\u001b[34m+- willUpload\r\n\u001b[39m"
+    ],
+    [
+      0.000040,
+      "\u001b[34m|\r\n\u001b[39m"
+    ],
+    [
+      0.000005,
+      "\u001b[34m+- upload\r\n\u001b[39m"
+    ],
+    [
+      0.000027,
+      "\u001b[34m|  |\r\n\u001b[39m"
+    ],
+    [
+      0.000009,
+      "\u001b[34m|  +- s3\r\n\u001b[39m"
+    ],
+    [
+      0.005407,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.001148,
+      "\u001b[34m- Using AWS access key id and secret access key from config\u001b[39m\r\n"
+    ],
+    [
+      0.000640,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000004,
+      "\u001b[34m- preparing to upload to S3 bucket `ember-cli-deploy-intro`\u001b[39m\r\n"
+    ],
+    [
+      0.479822,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000007,
+      "\u001b[34m- ✔  assets/ember-cli-deploy-introduction-dea56f403ced244b1529ca9f72294d56.css\u001b[39m\r\n"
+    ],
+    [
+      0.013717,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000009,
+      "\u001b[34m- ✔  favicon.ico\u001b[39m\r\n"
+    ],
+    [
+      0.115223,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000006,
+      "\u001b[34m- ✔  crossdomain.xml\u001b[39m\r\n"
+    ],
+    [
+      0.024334,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000136,
+      "\u001b[34m- ✔  robots.txt\u001b[39m\r\n"
+    ],
+    [
+      0.296686,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000007,
+      "\u001b[34m- ✔  assets/ember-cli-deploy-introduction-3c06b4b88b264be8477c5b203fc8c40e.js\u001b[39m\r\n"
+    ],
+    [
+      0.022193,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000007,
+      "\u001b[34m- ✔  assets/vendor-75b1d99f118758c0c20e00031c508069.css\u001b[39m\r\n"
+    ],
+    [
+      0.051048,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.001387,
+      "\u001b[34m- ✔  slides.md\u001b[39m\r\n"
+    ],
+    [
+      0.480730,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000010,
+      "\u001b[34m- ✔  images/me-5342b544dc6611be7045e43e64dcc770.jpg\u001b[39m\r\n"
+    ],
+    [
+      2.766609,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000007,
+      "\u001b[34m- ✔  assets/vendor-4d73f67ad18b0bf862eba7758bf125ce.js\u001b[39m\r\n"
+    ],
+    [
+      0.367610,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000006,
+      "\u001b[34m- ✔  images/me-4eb7a4d908de67cd80b2b04ff6bd5c9f.png\u001b[39m\r\n"
+    ],
+    [
+      0.000177,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000006,
+      "\u001b[34m- uploaded 10 files ok\u001b[39m\r\n"
+    ],
+    [
+      0.000159,
+      "\u001b[34m|  |\r\n\u001b[39m"
+    ],
+    [
+      0.000007,
+      "\u001b[34m|  +- s3-index\r\n\u001b[39m"
+    ],
+    [
+      0.000283,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000024,
+      "\u001b[34m- preparing to upload revision to S3 bucket `ember-cli-deploy-intro`\u001b[39m\r\n"
+    ],
+    [
+      1.430984,
+      "\u001b[34m|    \u001b[39m"
+    ],
+    [
+      0.000025,
+      "\u001b[34m- ✔  index.html:a14c0a4740ad507a8e1dcef6bf5cb5cb\u001b[39m\r\n"
+    ],
+    [
+      0.000126,
+      "\u001b[34m|\r\n\u001b[39m"
+    ],
+    [
+      0.000005,
+      "\u001b[34m+- didUpload\r\n\u001b[39m"
+    ],
+    [
+      0.000076,
+      "\u001b[34m|\r\n\u001b[39m"
+    ],
+    [
+      0.000018,
+      "\u001b[34m+- fetchRevisions\r\n\u001b[39m"
+    ],
+    [
+      0.000053,
+      "\u001b[34m|  |\r\n\u001b[39m"
+    ],
+    [
+      0.000029,
+      "\u001b[34m|  +- s3-index\r\n\u001b[39m"
+    ],
+    [
+      0.723404,
+      "\u001b[34m|\r\n\u001b[39m"
+    ],
+    [
+      0.000008,
+      "\u001b[34m+- didDeploy\r\n\u001b[39m"
+    ],
+    [
+      0.000018,
+      "\u001b[34m|\r\n\u001b[39m"
+    ],
+    [
+      0.000023,
+      "\u001b[34m+- teardown\r\n\u001b[39m"
+    ],
+    [
+      0.000031,
+      "\u001b[34m|\r\n\u001b[39m"
+    ],
+    [
+      0.000017,
+      "\u001b[34mPipeline complete\r\n\u001b[39m"
+    ],
+    [
+      0.028934,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                   \r \r"
+    ],
+    [
+      0.000093,
+      "\u001b]2;ghedamat@Mattias-MacBook-Pro: ~/DEV/ember-cli-deploy-introduction\u0007"
+    ],
+    [
+      0.000015,
+      "\u001b]1;..-introduction\u0007"
+    ],
+    [
+      0.015033,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32m~/DEV/ember-cli-deploy-introduction\u001b[01;34m(master ✗)\u001b[00m \u001b[K"
+    ],
+    [
+      0.000035,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.934586,
+      "\r\r\n"
+    ]
+  ]
+}
