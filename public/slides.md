@@ -10,13 +10,14 @@ class: center, middle
 
 ---
 
-### @ ghedamat
+### Mattia - @ghedamat
 
 <img src="images/me.jpg" width="100%" height="100%">
 
 ---
 # $ whoami
 
+## @ghedamat (github/twitter/slack)
 ## Developer @ [Precision Nutrition](https://precisionnutrition.com)
 ## Organizer of Toronto EmberJS ([@torontoemberjs](https://twitter.com/torontoemberjs))
 ## Ember-cli-deploy team ([ember-cli-deploy.com](http://ember-cli-deploy.com))
@@ -171,7 +172,19 @@ class: center, middle
 
 ## 1) install ember-cli-deploy
 
-### `ember install ember-cli-deploy@0.6.0.beta.1`
+### `ember install ember-cli-deploy`
+
+---
+
+class: center, middle
+
+# BTW
+
+---
+
+class: center, middle
+
+# We just released 0.6.0 !!!
 
 ---
 
@@ -587,6 +600,18 @@ class: center, middle
 ## &
 
 ## Examples
+
+---
+
+class: center, middle
+
+# Plugin READMEs
+
+## Consistent README format
+
+## ember-cli-deploy badges
+
+## Find them on the [website](http://www.ember-cli-deploy.com) or on [ember-addons](https://www.emberaddons.com/)
 
 ---
 
