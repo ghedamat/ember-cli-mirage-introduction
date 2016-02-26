@@ -440,7 +440,7 @@ class: center, middle
 
 --
 
-## an `hook` is executed on all plugins that implement it
+## a `hook` is executed on all plugins that implement it
 
 ---
 
@@ -476,7 +476,7 @@ class: middle
 
 ## A deploy strategy is a particular composition of plugins
 
-### (ghedamat, today)
+### -- ghedamat, today
 
 ???
 
@@ -571,17 +571,17 @@ class: middle
 
 ### A company pack is ideally open-source so others can take inspiration
 
-### (ghedamat, today, 2 minutes later)
+### -- ghedamat, today, 2 minutes later
 
 ---
 
 # Company packs examples:
 
-## Yapp pack -> lightning strategy + slack notifications
+## [Yapp pack](https://github.com/yappbox/ember-cli-deploy-yapp-pack) -> lightning strategy + slack notifications
 
-## Zesty pack -> same but with PR deploy goodness
+## [Zesty pack](https://github.com/zestyzesty/ember-cli-deploy-zesty-pack) -> same but with PR deploy goodness
 
-## PN pack -> example on how to share config via plugin pack
+## [PN pack](https://github.com/precisionnutrition/ember-cli-deploy-pn-pack) -> example on how to share config via plugin pack
 
 ---
 

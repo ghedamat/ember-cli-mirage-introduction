@@ -179,7 +179,7 @@
       "\u001b]2;ember deploy production --activate\u0007\u001b]1;ember\u0007"
     ],
     [
-      1.125984,
+      0.125984,
       "version: 2.3.0-beta.2\r\n"
     ],
     [
@@ -188,19 +188,19 @@
     ],
     [
       0.000026,
-      "Deploying [🚀 ------] 14% [plugin: build -\u003e build]"
+      "Deploying [🚀 -----] 14% [plugin: build -\u003e build]"
     ],
     [
       0.000082,
       "\u001b[0K"
     ],
     [
-      14.827581,
+      1.827581,
       "\u001b[1G"
     ],
     [
       0.000006,
-      "Deploying [🚀 ----] 43% [plugin: s3-index -\u003e fetchInitialRevisions]"
+      "Deploying [=🚀 ----] 43% [plugin: s3-index -\u003e fetchInitialRevisions]"
     ],
     [
       0.000016,
@@ -212,7 +212,7 @@
     ],
     [
       0.000011,
-      "Deploying [=🚀 ---] 57% [plugin: s3 -\u003e upload]\u001b[0K"
+      "Deploying [=🚀 ----] 57% [plugin: s3 -\u003e upload]\u001b[0K"
     ],
     [
       3.212504,
@@ -220,7 +220,7 @@
     ],
     [
       0.000010,
-      "Deploying [==🚀 --] 71% [plugin: s3-index -\u003e upload]\u001b[0K"
+      "Deploying [==🚀 ---] 71% [plugin: s3-index -\u003e upload]\u001b[0K"
     ],
     [
       0.926960,
@@ -228,7 +228,7 @@
     ],
     [
       0.000009,
-      "Deploying [===🚀 -] 86% [plugin: s3-index -\u003e activate]\u001b[0K"
+      "Deploying [====🚀 -] 86% [plugin: s3-index -\u003e activate]\u001b[0K"
     ],
     [
       0.863951,
@@ -248,7 +248,7 @@
     ],
     [
       0.000031,
-      "Deploying [====🚀 ] 100% [plugin: s3-index -\u003e fetchRevisions]"
+      "Deploying [=====🚀 ] 100% [plugin: s3-index -\u003e fetchRevisions]"
     ],
     [
       0.000004,
