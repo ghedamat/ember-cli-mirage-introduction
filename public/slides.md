@@ -10,14 +10,14 @@ class: center, middle
 
 ---
 
-### Mattia - @ghedamat
+### About me
 
 <img src="images/me.jpg" width="100%" height="100%">
 
 ---
 # $ whoami
 
-## @ghedamat (github/twitter/slack)
+## Mattia - @ghedamat (github/twitter/slack)
 ## Developer @ [Precision Nutrition](https://precisionnutrition.com)
 ## Organizer of Toronto EmberJS ([@torontoemberjs](https://twitter.com/torontoemberjs))
 ## Ember-cli-deploy team ([ember-cli-deploy.com](http://ember-cli-deploy.com))
@@ -184,7 +184,7 @@ class: center, middle
 
 class: center, middle
 
-# We just released 0.6.0 !!!
+# We just released [0.6.0](https://github.com/ember-cli/ember-cli-deploy/releases/tag/v0.6.0) !!!
 
 ---
 
@@ -385,6 +385,8 @@ it will take an already upload "revision" and mark it as the "active" one
 <!-- getto md -->
 <img src="http://www.reactiongifs.com/wp-content/uploads/2011/09/mind_blown.gif">
 <br>
+<br>
+<center>
 <a href="http://ember-cli-deploy-intro.s3-website-us-west-2.amazonaws.com">http://ember-cli-deploy-intro.s3-website-us-west-2.amazonaws.com/</a>
 </center>
 
@@ -398,7 +400,7 @@ class: center, middle
 ---
 class: center, middle
 
-# So...
+# Tell me more...
 
 ???
 
@@ -423,10 +425,13 @@ class: center, middle
 ### (and has the keyword `ember-cli-deploy-plugin`)
 
 ---
+class: center, middle
 
-# Deploy Flow
+# How does this work?
 
---
+---
+
+# Fitting the pieces together
 
 ## ember-cli-deploy implements `commands`
 
@@ -521,7 +526,7 @@ class: center, middle
 
 class: center, middle
 
-## just ember-cli-addons
+## just an ember-cli-addon
 
 --
 
@@ -541,7 +546,7 @@ class: center, middle
 
 ## ember-cli-deploy-s3-pack (we could have used it here)
 ## ember-cli-deploy-lightning-pack
-## ember-cli-deploy-azure
+## ember-cli-deploy-azure-pack
 ## ember-cli-deploy-aws-pack
 
 ---
@@ -555,6 +560,25 @@ class: center, middle
 class: center, middle
 
 # I want something *slightly* different
+
+---
+class: center, middle
+
+# No Problem!
+
+---
+class: center, middle
+
+## Use a plugin pack as base/inspiration
+
+--
+
+## and add other plugins
+
+---
+class: center, middle
+
+# Or...
 
 ---
 class: center, middle
