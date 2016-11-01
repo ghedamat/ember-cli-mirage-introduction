@@ -30,6 +30,9 @@ code {
 }
 .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
 .remark-code-line-highlighted     { background-color: #373832; }
+.remark-code {
+  font-size: 22px;
+}
 .pull-left {
 	float: left;
 	width: 47%;
