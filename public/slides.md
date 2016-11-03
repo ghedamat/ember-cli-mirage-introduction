@@ -5,7 +5,7 @@ class: inverse
 ---
 class: center, middle
 
-# Ember-cli-mirage
+# Ember CLI Mirage
 
 ---
 
@@ -234,13 +234,27 @@ export default Model.extend({
 ---
 # Serializers
 
+--
+
 ## They translate Models and relationships into payloads
+
+
+--
 
 ## Embedding
 
+
+--
+
 ## Sideloading
 
+
+--
+
 ## JSON Api (just works)
+
+
+--
 
 ## ActiveModelSerializer Api
 
@@ -351,11 +365,25 @@ test('my test', function(assert) {
 ---
 # Protips
 
-## Complicated mirage config
+## Complicated stubbing
 
-## Polling
+### Avoid creating endpoints for very specific cases
 
-## ??
+### In some cases a fixture paylod served from a stubbed enpoint is good
+
+### You can also test behaviour (assert some endpoints are NOT called in a test)
+
+```javascript
+test('posts route uses sideloaded user', function(assert) {
+  let done = assert.async;
+  this.get('/users', function() {
+    assert.ok(false, 'users?ids=.. should not be called')
+    done();
+  });
+  visit('/posts');
+});
+```
+
 
 
 
