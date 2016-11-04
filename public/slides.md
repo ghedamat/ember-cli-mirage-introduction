@@ -435,3 +435,19 @@ class: center, middle
 ### @tehviking for a great talk about this topic
 
 
+---
+class: center, middle
+
+# Announcements
+
+## We have a new newsletter
+
+## http://torontoemberjs.com
+
+## Next month, final meetup of the year
+
+## Demo December, Pharmacy Bar, Parkdale
+
+## Please reach out with your demos!
+
+## NO MEETUP IN JANUARY
